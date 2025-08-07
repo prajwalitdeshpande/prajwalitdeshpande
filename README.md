@@ -19,8 +19,7 @@ Executive, M-Interio Pvt Ltd (Jul 2023 – Feb 2025)
 
 ---
 
-**🛠 Skills**
-**Tools & Tech:**  
+**🛠 Skills** 
 SQL (PostgreSQL, MySQL), Power BI, Excel (Advanced, VBA), MS Word, PowerPoint
 
 **Business Skills:**  
