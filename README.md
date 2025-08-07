@@ -26,5 +26,9 @@ SQL (PostgreSQL, MySQL), Power BI, Excel (Advanced, VBA), MS Word, PowerPoint
 KPI Reporting, Data Visualization, Market Research, Agile, Process Optimization
 
 ---
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalitdeshpande/)
+
+---
 
 ⭐ Star this repository if you find my work interesting!
