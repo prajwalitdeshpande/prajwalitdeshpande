@@ -15,7 +15,7 @@ I thrive in collaborative environments and have worked on diverse projects—fro
 ---
 
 **🏢 Experience**
-Executive, M-Interio Pvt Ltd (Jul 2023 – Feb 2025)
+Executive, M-Interio Pvt Ltd (July 2023 – December 2025)
 
 ---
 
